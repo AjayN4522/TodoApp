@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AjayN4522/TodoApp.git/static/css/main.f023dcbe.css",
+    "main.js": "/AjayN4522/TodoApp.git/static/js/main.fdcd3a31.js",
+    "index.html": "/AjayN4522/TodoApp.git/index.html",
+    "main.f023dcbe.css.map": "/AjayN4522/TodoApp.git/static/css/main.f023dcbe.css.map",
+    "main.fdcd3a31.js.map": "/AjayN4522/TodoApp.git/static/js/main.fdcd3a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f023dcbe.css",
+    "static/js/main.fdcd3a31.js"
+  ]
+}
